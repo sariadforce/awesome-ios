@@ -11,3 +11,4 @@ script:
   - danger
 notifications:
   email: false
+Dangerfile linguist-documentation
